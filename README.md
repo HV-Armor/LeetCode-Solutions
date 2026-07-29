@@ -14,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0125-valid-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +37,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
