@@ -26,6 +26,7 @@
 | [0231-power-of-two](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0877-stone-game](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
