@@ -1,7 +1,7 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        vector<int> last(256, -1);  // stores last index of characters
+        vector<int> last(256, -1);
         int left = 0;
         int maxLen = 0;
 
