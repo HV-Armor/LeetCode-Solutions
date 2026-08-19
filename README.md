@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0066-plus-one](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0877-stone-game](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -20,6 +21,7 @@
 | [0001-two-sum](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0409-longest-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3731-find-missing-elements](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
@@ -51,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
