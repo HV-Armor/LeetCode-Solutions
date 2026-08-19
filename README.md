@@ -64,6 +64,7 @@
 | [0409-longest-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
