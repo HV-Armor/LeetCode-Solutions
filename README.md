@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0039-combination-sum](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0066-plus-one](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0877-stone-game](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -32,6 +33,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -114,4 +116,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
