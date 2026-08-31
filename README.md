@@ -76,6 +76,7 @@
 | [0125-valid-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0409-longest-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
+| [0796-rotate-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -129,4 +130,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
