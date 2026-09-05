@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0877-stone-game](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -26,6 +27,7 @@
 | [0001-two-sum](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0217-contains-duplicate](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0409-longest-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -122,6 +124,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
