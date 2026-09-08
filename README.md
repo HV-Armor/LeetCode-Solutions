@@ -38,6 +38,7 @@
 | [0015-3sum](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -77,6 +78,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0409-longest-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
@@ -141,6 +143,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -158,4 +161,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
