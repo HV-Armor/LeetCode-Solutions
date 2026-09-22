@@ -50,6 +50,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
@@ -139,6 +140,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Enumeration
@@ -182,4 +184,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
