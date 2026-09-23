@@ -27,6 +27,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0202-happy-number](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0409-longest-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
@@ -43,6 +44,7 @@
 | [0088-merge-sorted-array](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Math
@@ -51,6 +53,7 @@
 | [0007-reverse-integer](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0202-happy-number](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
@@ -188,4 +191,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
