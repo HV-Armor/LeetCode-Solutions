@@ -53,6 +53,7 @@
 | [0007-reverse-integer](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0202-happy-number](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
@@ -99,6 +100,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0877-stone-game](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
@@ -195,4 +197,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
