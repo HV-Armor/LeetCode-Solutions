@@ -51,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0029-divide-two-integers](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -76,6 +77,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Recursion
