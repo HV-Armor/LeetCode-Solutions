@@ -96,6 +96,7 @@
 | [0409-longest-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0796-rotate-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -217,4 +218,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
