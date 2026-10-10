@@ -20,6 +20,7 @@
 | [0877-stone-game](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -121,6 +122,7 @@
 | [0164-maximum-gap](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0217-contains-duplicate](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -128,6 +130,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +141,7 @@
 | [0409-longest-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -155,6 +159,7 @@
 | [0069-sqrtx](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
