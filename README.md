@@ -22,6 +22,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -35,6 +36,7 @@
 | [0409-longest-palindrome](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3731-find-missing-elements](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -82,6 +84,7 @@
 | [0029-divide-two-integers](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +146,7 @@
 | [1386-cinema-seat-allocation](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
