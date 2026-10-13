@@ -24,6 +24,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -129,6 +130,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -148,6 +150,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
