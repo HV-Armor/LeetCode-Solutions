@@ -68,6 +68,7 @@
 | [2413-smallest-even-multiple](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HV-Armor/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
